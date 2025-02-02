@@ -1,0 +1,4 @@
+使用python=3.10版本
+解压、配置环境之后先运行model_download下载模型
+dbbuild用于建立向量数据库
+运行api之后运行streamlit就可以了
